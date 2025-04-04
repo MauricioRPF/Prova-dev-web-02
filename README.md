@@ -1,5 +1,5 @@
 ## Notas
-Ele conecta no meu banco no firestore
+Crud com conexão no meu banco firebase, na pasta fotos tem os prints dele.
 ### Comandos
 * npx create-react-app mercado-interativo
 * npm install react-bootstrap bootstrap recharts
